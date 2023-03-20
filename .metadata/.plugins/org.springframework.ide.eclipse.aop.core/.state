@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<aop-reference-model>
+<aop-project name="SpringBootProduceCJC"/>
+<aop-project name="Furniture_Finance_Project"/>
+<aop-project name="AirIndia-Pro"/>
+<aop-project name="FirstProj"/>
+<aop-project name="WebServiceUI"/>
+<aop-project name="SpringBootProduceAdmin"/>
+<aop-project name="SpringBootWebService"/>
+<aop-project name="SpringBootWebApplication"/>
+<aop-project name="SpringbootJPA"/>
+<aop-project name="SpringBootWebServiceCruddemo"/>
+<aop-project name="Springboot-RESTAPIDemo"/>
+<aop-project name="MyWebApp"/>
+<aop-project name="SpringBootSProfileONETOONE"/>
+<aop-project name="MakeMyTrip_Webservice_UI"/>
+<aop-project name="Microservice_Zuul"/>
+<aop-project name="SpringBootConsumeAdminandCJC"/>
+<aop-project name="Microservice_Server"/>
+<aop-project name="springmavendemo"/>
+<aop-project name="MicroserviceImageUpload"/>
+<aop-project name="SpringBootProfile"/>
+<aop-project name="springmaven"/>
+<aop-project name="Microservice_ClientExam"/>
+<aop-project name="SpringBootProduce"/>
+<aop-project name="Microservice_Consume"/>
+<aop-project name="MakeMyTrip_Consume"/>
+<aop-project name="SpringBootWebServiceCrudpractice"/>
+<aop-project name="SpringBootActuator"/>
+<aop-project name="Indigo-Pro"/>
+<aop-project name="WebSeviceDemo"/>
+<aop-project name="SpringBootCRUDProfile"/>
+<aop-project name="SpiceJet-Pro"/>
+<aop-project name="SpringBootDevtoolsCrud"/>
+<aop-project name="SpringBootCRUD"/>
+<aop-project name="Springboot-RESTAPI-JPA"/>
+<aop-project name="Springboot-Restapi"/>
+<aop-project name="MicroServiceEureka_UI"/>
+<aop-project name="Microservice_Produce"/>
+<aop-project name="Microservice_ClientAdmission"/>
+<aop-project name="SpringBootConsume"/>
+<aop-project name="SpringBootDevtools"/>
+<aop-project name="SpringBootWebServiceCrudTask"/>
+<aop-project name="Webservice_ONETOMANY"/>
+</aop-reference-model>
